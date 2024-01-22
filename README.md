@@ -1,1 +1,2 @@
-# ruite_leetcode.github.io
+# ruite_leetcode.github.io & few works done in python 
+
