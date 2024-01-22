@@ -1,2 +1,2 @@
-# ruite_leetcode.github.io & few works done in python 
+# some leetcode practices & few projects done in python at work 
 
